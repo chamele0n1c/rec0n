@@ -1,0 +1,9 @@
+{
+  "name": "rec0n-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "prophoneint": "*",
+    "discord.js": "*",
+    "twilio": "*"
+  }
+}
